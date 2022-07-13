@@ -1,5 +1,6 @@
 # Infracost GitHub Actions
 
+
 This project provide a GitHub Action and examples for Infracost, so you can see cloud cost estimates for Terraform in pull requests 💰
 
 <img src=".github/assets/screenshot.png" alt="Example screenshot" />
